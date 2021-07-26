@@ -8,7 +8,7 @@
 ### 🌈 Your Dreams are within touching distance 📕
 
 I'm a university student✍🏼
-{Python}🐍 
+{Front-End}
 I'm from {**Brazil**} 🇧🇷
 Live in Portugal 🇵🇹
 
